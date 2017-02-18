@@ -1,8 +1,8 @@
 # C++
-Bomba dildi
+ Dildi
 
 #Assembler
-
+Bir dildi
 
 #Lisp
 
